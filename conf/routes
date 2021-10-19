@@ -1,0 +1,2 @@
+GET /api/publications com.github.gervaisb.effinlib.api.ApiController.lookup(terms)
+
